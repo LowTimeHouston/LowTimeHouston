@@ -1,4 +1,4 @@
-## Hi there 👋
+Automotive interior restoration.  Upholstery, repair, recolor.  Proudly serving greater Houston, TX.
 
 <!--
 **lowtimehouston/lowtimehouston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
